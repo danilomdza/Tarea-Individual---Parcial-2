@@ -35,3 +35,8 @@ Este proyecto es una aplicación de Java Swing que se conecta a una base de dato
 ![image](https://github.com/danilomdza/Tarea-Individual---Parcial-2/assets/162849123/0c07314e-a0c5-4eae-9746-78514b766b92)
 ![image](https://github.com/danilomdza/Tarea-Individual---Parcial-2/assets/162849123/553a00f7-b444-4b37-bbfb-23ba386d6eb0)
 
+- Gestor de Base de Datos
+![image](https://github.com/danilomdza/Tarea-Individual---Parcial-2/assets/162849123/bc8a32ad-181f-4725-b2bf-45b70eab5116)
+![image](https://github.com/danilomdza/Tarea-Individual---Parcial-2/assets/162849123/06267138-7616-4f21-ac95-283521b002cf)
+
+
